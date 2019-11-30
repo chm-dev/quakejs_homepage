@@ -5,6 +5,10 @@ It helps with the problem that you can't really save your own config easily and 
 The last used config is saved in localstorage and is loaded next time you visit the page.
 You can also drag the button to you bookmarks and use it to get to server with single click. 
 
+# Come and play
+
+www.q3.click
+
 # Credits
 
 This is just alternative homepage to the great project created by [Inolen](https://github.com/inolen): 
