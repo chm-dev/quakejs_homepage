@@ -1,7 +1,7 @@
 # Alternative QuakeJs homepage
 
 This is just a small static webpage I created to make life with quakejs easier for more casual gamers. 
-It helps with the problem that you can't really save your own config easily and binding keys everytime you want to play is no fun.
+It solves a key binding problem.
 The last used config is saved in localstorage and is loaded next time you visit the page.
 You can also drag the button to you bookmarks and use it to get to server with single click. 
 
